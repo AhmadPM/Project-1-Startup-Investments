@@ -1,5 +1,5 @@
-State,amount
-CA,318
-NY,85
-MA,59
-TX,24
+State,amount,percentage
+CA,197,45.39%
+NY,44,10.14%
+MA,34,7.83%
+TX,15,3.46%
